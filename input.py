@@ -1,4 +1,4 @@
-# Python3 program to get input from user
+# Python3 program to get input from user active
 
 # accepting integer from the user
 # the return type of input() function is string ,
